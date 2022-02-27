@@ -1,0 +1,17 @@
+{
+    "name": "masteritua/verification",
+    "description": "Проверка Email",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Masteritua\\Verification\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aleksey Shevchenko",
+            "email": "masteritua@gmail.com"
+        }
+    ],
+    "require": {}
+}
