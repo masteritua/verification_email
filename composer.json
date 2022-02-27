@@ -1,7 +1,14 @@
 {
-    "name": "masteritua/verification",
+    "name": "masteritua/verification_email",
     "description": "Проверка Email",
     "type": "project",
+    "license": "MIT",
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/masteritua/verification_email.git"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "Masteritua\\Verification\\": "src/"
